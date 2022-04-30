@@ -1,0 +1,22 @@
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.skill {
+    background: #EEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 8px 15px;
+    color: #333;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 14px
+}
+.skill img {
+    height: 25px
+}

@@ -29,13 +29,21 @@
 <div align=center>
 
 🔭 I’m currently working on **A JavaScript Tutorial Reference** (Allarm Tutorials)
+<br>
 👯 I’m looking to collaborate on **Open Source Projects**
+<br>
 🤝 I’m looking for help with **teaching new technology**
+<br>
 🌱 I’m currently learning **Node.js, Redux**
+<br>
 💬 Ask me about **JavaScript and React**
+<br>
 📫 How to reach me **egybaron5@gmail.com**
+<br>
 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/alexander-sands) 
+<br>
 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/) & [Resume](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/)
+<br>
 ⚡ Fun fact **I love Parkpur & Freerunning**
 <!-- 📝 I regularly write articles on -->
   
@@ -45,30 +53,7 @@
 
 ### Languages and Tools
 
-<style>
-  .skills {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-  }
-  .skill {
-    background: #EEE;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 5px;
-    padding: 8px 15px;
-    color: #333;
-    font-weight: bold;
-    border-radius: 10px;
-    font-size: 14px
-  }
-  .skill img {
-    height: 25px
-  }
-</style>
+<link rel="stylesheet" href="css/bondi.css" />
 
 <div class="skills" align="center">
   <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="40"/> HTML</a> 
