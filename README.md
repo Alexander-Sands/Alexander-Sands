@@ -60,7 +60,7 @@
   <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="25"/></a> 
   <a class="skill" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="25"/></a>
-  <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/Logo/ProgrammingLanguages/javascript.svg" alt="javascript" height="25"/></a>
+  <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="25"/></a>
   <a class="skill" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="25"/></a>
   <a class="skill" href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="25"/></a>
   <a class="skill" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="25"/></a>
