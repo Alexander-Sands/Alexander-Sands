@@ -53,11 +53,11 @@
 
 ### Languages and Tools
 
-<link rel="stylesheet" href="css/style.css" />
+<!-- <link rel="stylesheet" href="css/style.css" /> -->
 
-<div class="skills" align="center">
-  <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="40"/> HTML</a> 
-  <a class="skill" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="40"/> CSS</a>
+<div class="skills" align="center" style="display: flex;flex-wrap: wrap;justify-content: center;align-items: center;gap: 10px;">
+  <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="background: #EEE;display: flex;justify-content: center;align-items: center;gap: 5px;padding: 8px 15px;color: #333;font-weight: bold;border-radius: 10px;font-size: 14px"><img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="40" style="height: 25px"/> HTML</a> 
+  <a class="skill" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="background: #EEE;display: flex;justify-content: center;align-items: center;gap: 5px;padding: 8px 15px;color: #333;font-weight: bold;border-radius: 10px;font-size: 14px"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="40" style="height: 25px"/> CSS</a>
   <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/Logo/ProgrammingLanguages/javascript.svg" alt="javascript" height="40"/> JavaScript</a>
   <a class="skill" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="40"/> TypeScript</a>
   <a class="skill" href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="40"/> JQuery</a>
