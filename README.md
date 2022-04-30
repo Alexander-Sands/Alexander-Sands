@@ -53,7 +53,7 @@
 
 ### Languages and Tools
 
-<link rel="stylesheet" href="css/bondi.css" />
+<link rel="stylesheet" href="css/style.css" />
 
 <div class="skills" align="center">
   <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="40"/> HTML</a> 
