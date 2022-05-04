@@ -55,47 +55,72 @@
 
 <!-- <link rel="stylesheet" href="css/style.css" /> -->
 
+<style>
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.skill {
+  background: #EEE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 15px;
+  color: #333;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 14px
+}
+.skill img {
+  height: 25px
+}
+</style>
+
 <div class="skills" align="center">
 
-  <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="35"/></a> 
-  <a class="skill" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="35"/></a>
-  <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="35"/></a>
-  <a class="skill" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="35"/></a>
-  <a class="skill" href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="35"/></a>
-  <a class="skill" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="35"/></a>
-  <a class="skill" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Other/git.svg" alt="git"  height="35"/></a>
-  <a class="skill" href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Other/github-2.svg" alt="git"  height="35"/></a>
-  <a class="skill" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/sass.svg" alt="sass" height="35"/></a> 
-  <a class="skill" href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/pug.svg" alt="pug" height="35"/></a>
-  <a class="skill" href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/gulp.svg" alt="gulp" height="35"/></a>
-  <a class="skill" href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/webpack.svg" alt="webpack" height="35"/></a>
-  <a class="skill" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/reactjs.svg" alt="react" height="35"/></a> 
-  <a class="skill" href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/redux.svg" alt="redux" height="35"/></a> 
-  <a class="skill" href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="images/icons/Other/json.png" alt="redux" height="35"/></a> 
-  <a class="skill" href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank" rel="noreferrer"> <img src="images/icons/Other/AJAX.svg" alt="redux" height="35"/></a> 
-  <a class="skill" href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="images/icons/Testing/jest.svg" alt="jest" height="35"/></a> 
-  <a class="skill" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Database/mysql.svg" alt="mysql" height="35"/></a> 
-  <a class="skill" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Database/mongodb.svg" alt="mongodb" height="35"/></a> 
-  <a class="skill" href="https://www.computerhope.com/jargon/c/commandi.htm" target="_blank" rel="noreferrer"> <img src="images/icons/Other/Command-Line.png" alt="mongodb" height="35"/></a> 
-  <a class="skill" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="images/icons/BackendDevelopment/express.svg" alt="express" height="35"/></a>
-  <a class="skill" href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/babel.svg" alt="babel" height="35"/></a>
-  <a class="skill" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/python.svg" alt="python" height="35"/></a> 
-  <a class="skill" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/php.svg" alt="php" height="35"/></a> 
-  <a class="skill" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/java.svg" alt="java" height="35"/></a> 
-  <a class="skill" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" height="35"/></a> 
-  <a class="skill" href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" height="35"/></a> 
-  <a class="skill" href="https://postman.com" target="_blank" rel="noreferrer"> <img src="images/icons/Software/postman.svg" alt="postman" height="35"/></a> 
-  <a class="skill" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="images/icons/Other/linux.svg" alt="linux" height="35"/></a>
-  <a class="skill" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="images/icons/Software/photoshop.svg" alt="photoshop" height="35"/></a> 
-  <a class="skill" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/illustrator.svg" alt="illustrator" height="35"/></a> 
-  <a class="skill" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/xd.svg" alt="xd" height="35"/> </a>
-  <a class="skill" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="35"/> </a>
-<!-- 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="35"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="35"/></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="35"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="35"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Other/git.svg" alt="git"  height="35"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Other/github-2.svg" alt="git"  height="35"/></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/sass.svg" alt="sass" height="35"/></a> 
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/pug.svg" alt="pug" height="35"/></a>
+  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/gulp.svg" alt="gulp" height="35"/></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/webpack.svg" alt="webpack" height="35"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/reactjs.svg" alt="react" height="35"/></a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/redux.svg" alt="redux" height="35"/></a> 
+  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="images/icons/Other/json.png" alt="redux" height="35"/></a> 
+  <a href="https://www.w3schools.com/js/js_ajax_intro.asp" target="_blank" rel="noreferrer"> <img src="images/icons/Other/AJAX.svg" alt="redux" height="35"/></a> 
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="images/icons/Testing/jest.svg" alt="jest" height="35"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Database/mysql.svg" alt="mysql" height="35"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Database/mongodb.svg" alt="mongodb" height="35"/></a> 
+  <a href="https://www.computerhope.com/jargon/c/commandi.htm" target="_blank" rel="noreferrer"> <img src="images/icons/Other/Command-Line.png" alt="mongodb" height="35"/></a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="images/icons/BackendDevelopment/express.svg" alt="express" height="35"/></a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/babel.svg" alt="babel" height="35"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/python.svg" alt="python" height="35"/></a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/php.svg" alt="php" height="35"/></a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/java.svg" alt="java" height="35"/></a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" height="35"/></a> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" height="35"/></a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="images/icons/Software/postman.svg" alt="postman" height="35"/></a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="images/icons/Other/linux.svg" alt="linux" height="35"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="images/icons/Software/photoshop.svg" alt="photoshop" height="35"/></a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/illustrator.svg" alt="illustrator" height="35"/></a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/xd.svg" alt="xd" height="35"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="35"/> </a>
+
   <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="25"/> HTML</a> 
   <a class="skill" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="25"/> CSS</a>
-  <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/Logo/ProgrammingLanguages/javascript.svg" alt="javascript" height="25"/> JavaScript</a>
+  <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="25"/> JavaScript</a>
   <a class="skill" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="25"/> TypeScript</a>
   <a class="skill" href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="25"/> JQuery</a>
   <a class="skill" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="25"/> Bootstrap</a>
@@ -125,7 +150,7 @@
   <a class="skill" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="images/icons/Software/photoshop.svg" alt="photoshop" height="25"/> Adobe Photoshop</a> 
   <a class="skill" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/illustrator.svg" alt="illustrator" height="25"/> Adobe Illustrator</a> 
   <a class="skill" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/xd.svg" alt="xd" height="25"/> Adobe XD</a>
-  <a class="skill" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="25"/> Figma</a> -->
+  <a class="skill" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="25"/> Figma</a>
 
 
   
