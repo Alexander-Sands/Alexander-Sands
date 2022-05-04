@@ -55,7 +55,7 @@
 
 <!-- <link rel="stylesheet" href="css/style.css" /> -->
 
-<style>
+<!-- <style>
 .skills {
   display: flex;
   flex-wrap: wrap;
@@ -78,12 +78,18 @@
 .skill img {
   height: 25px
 }
-</style>
+</style> -->
 
-<div class="skills" align="center">
 
+<!-- <div class="skills" align="center"> -->
+<div class="skills">
+
+  <!-- [![alt text for screen readers](images/icons/FrontendDevelopment/html.svg)](https://www.w3.org/html/)  -->
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="35"/></a> 
+  <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="35"/></a>  -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="35"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="35"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="35"/></a>
@@ -117,7 +123,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/xd.svg" alt="xd" height="35"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="35"/> </a>
 
-  <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <!-- <a class="skill" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="images/icons/FrontendDevelopment/html.svg" alt="html5" height="25"/> HTML</a> 
   <a class="skill" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/icons/FrontendDevelopment/css.svg" alt="css3" height="25"/> CSS</a>
   <a class="skill" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="25"/> JavaScript</a>
@@ -150,7 +156,7 @@
   <a class="skill" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="images/icons/Software/photoshop.svg" alt="photoshop" height="25"/> Adobe Photoshop</a> 
   <a class="skill" href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/illustrator.svg" alt="illustrator" height="25"/> Adobe Illustrator</a> 
   <a class="skill" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="images/icons/Software/xd.svg" alt="xd" height="25"/> Adobe XD</a>
-  <a class="skill" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="25"/> Figma</a>
+  <a class="skill" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="images/icons/Software/figma.svg" alt="figma" height="25"/> Figma</a> -->
 
 
   
