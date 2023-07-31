@@ -58,7 +58,7 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 
   |<img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> | ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands) |
   |:--:|:--:|
-  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en "alexander-sands")|
+  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")|
 </div>
 
 <!--START_SECTION:waka-->
