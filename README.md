@@ -18,6 +18,10 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
   
   ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
+
+  ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
+
 </div>
 
 
@@ -32,16 +36,39 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 - ⚡ Fun fact **I love Parkpur & Freerunning**
 <!-- - 📝 I regularly write articles on -->
 
-<br>
 
 <!-- 0003 -------------------------------------------------- -->
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
 
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
-
-  ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
+  
 
 </div>
+
+
+
+<!-- 0005 -------------------------------------------------- -->
+---
+## <img src='images/giphy.webp' width='25' /> My Github Stats:
+
+<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
+  <img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+  
+  <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
+  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&locale=en "alexander-sands")
+
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands&theme=dark)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-sands&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")
+
+</div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<!-- ⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.55 % as on ⏰ 29-Jul-2023 -->
 
 ---
 
@@ -70,29 +97,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <!-- <img src="images/icons/Other/github-2.svg" alt="git"  height="35"/> -->
 <!-- <img src="images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" height="35"/> -->
 
-<!-- 0005 -------------------------------------------------- -->
----
-## <img src='images/giphy.webp' width='25' /> My Github Stats:
 
-<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
-  <img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
-  
-  <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
-  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&locale=en "alexander-sands")
-
-  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands&theme=dark)](https://git.io/streak-stats) -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)
-
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-sands&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")
-
-</div>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<!-- ⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.55 % as on ⏰ 29-Jul-2023 -->
 ---
 
 <!-- 0008 -------------------------------------------------- -->
@@ -100,7 +105,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <!-- <a href="https://github.com/Alexander-Sands/would-you-rather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=would-you-rather&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="would-you-rather" />
 </a> -->
-
 ## 🗂️ Highlight Projects
 
 
@@ -127,8 +131,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://github.com/Alexander-Sands/sass-mixins-and-functions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=sass-mixins-and-functions" alt="sass-mixins-and-function" />
 </a>  
-
----
 
 <!-- 0006 -------------------------------------------------- -->
 ## Portfolios
