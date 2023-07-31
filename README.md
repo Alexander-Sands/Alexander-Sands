@@ -67,17 +67,20 @@ These are some of the major technologies that I use or have worked on in the pas
 ## <img src='images/giphy.webp' width='25' /> My Github Stats:
 
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
-  <img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+  <!-- <img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300"> -->
   
   <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
-  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&locale=en "alexander-sands")
+  <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&locale=en "alexander-sands") -->
 
   <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands&theme=dark)](https://git.io/streak-stats) -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats) -->
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-sands&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands") -->
 
+  |<img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">|![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&locale=en "alexander-sands")|
+  |--|--|
+  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")|
 </div>
 
 <!--START_SECTION:waka-->
