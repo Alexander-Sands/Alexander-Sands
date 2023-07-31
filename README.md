@@ -132,10 +132,10 @@ Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" targe
 |--|--|
 <!-- <a href="https://www.facebook.com/abdelrahman.khalaf.50" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="35" /></a> -->
 
----
+<!-- --- -->
 
 <!-- 0009 -------------------------------------------------- -->
-<div align="center"> 
+<!-- <div align="center"> 
   <p><b>✨ VISITOR COUNT ✨</b></p>
   <img src="https://profile-counter.glitch.me/Alexander-Sands/count.svg" />
-</div>
+</div> -->
