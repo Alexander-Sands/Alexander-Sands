@@ -50,7 +50,7 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
   
-  <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
+  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
   <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands&theme=dark)](https://git.io/streak-stats) -->
 
