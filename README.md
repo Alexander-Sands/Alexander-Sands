@@ -11,6 +11,16 @@
 <!-- ## <img src="images/Developer.gif" width="35" /> About Me : -->
 Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital products. Passionate about designing high-performance responsive websites. I have built many digital products using many things like Sass and Pug, React, Redux, Node.js, and Database. I specialize mostly in JS but I also write PHP, Java, Python, and some other things.
 
+<!-- 0003 -------------------------------------------------- -->
+<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
+
+  <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  /><br>  -->
+  
+  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+</div>
+
+
 - 🔭 I’m currently working on **A JavaScript Tutorial Reference** (Allarm Tutorials)
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m looking for help with **teaching new technology**
@@ -22,21 +32,18 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 - ⚡ Fun fact **I love Parkpur & Freerunning**
 <!-- - 📝 I regularly write articles on -->
 
+<br>
 
 <!-- 0003 -------------------------------------------------- -->
-<br>
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
-  
-  <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  /><br>  -->
-  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-  
   <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
 
   ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
 
 </div>
-<br>
+
+---
 
 <!-- 0004 -------------------------------------------------- -->
 <!-- ### Languages and Tools -->
@@ -65,7 +72,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!-- 0005 -------------------------------------------------- -->
 ---
-### <img src='images/giphy.webp' width='25' /> My Github Stats:
+## <img src='images/giphy.webp' width='25' /> My Github Stats:
 
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
   <img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
@@ -88,20 +95,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <!-- ⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.55 % as on ⏰ 29-Jul-2023 -->
 ---
 
-<!-- 0006 -------------------------------------------------- -->
-## Portfolios
-Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" target="blank"><img align="center" src="images/icons/Social/github.svg" alt="alexander-sands" height="30" width="40" /></a> | <a href="https://codepen.io/alexander-sands" target="blank"><img align="center" src="images/icons/Social/codepen.svg" alt="alexander-sands" height="30" width="40" /></a> 
-|--|--|--| 
-
-<!-- 0007 -------------------------------------------------- -->
-## Let's Connect :handshake:
-<a href="https://linkedin.com/in/abdul-rahman-khalaf-b76307133" target="blank"><img src="images/icons/Social/linked-in-alt.svg" alt="abdul-rahman-khalaf-b76307133" height="30" width="40" /></a>|<a href="https://www.facebook.com/groups/492703297525406/user/100004685259878/" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-|--|--|--|
-<!-- <a href="https://www.facebook.com/abdelrahman.khalaf.50" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a> -->
-
 <!-- 0008 -------------------------------------------------- -->
-
----
 
 <!-- <a href="https://github.com/Alexander-Sands/would-you-rather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=would-you-rather&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="would-you-rather" />
@@ -134,6 +128,18 @@ Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" targe
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=sass-mixins-and-functions" alt="sass-mixins-and-function" />
 </a>  
 
+---
+
+<!-- 0006 -------------------------------------------------- -->
+## Portfolios
+Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" target="blank"><img align="center" src="images/icons/Social/github.svg" alt="alexander-sands" height="35"  /></a> | <a href="https://codepen.io/alexander-sands" target="blank"><img align="center" src="images/icons/Social/codepen.svg" alt="alexander-sands" height="35" /></a> 
+|--|--|--| 
+
+<!-- 0007 -------------------------------------------------- -->
+## Let's Connect :handshake:
+<a href="https://linkedin.com/in/abdul-rahman-khalaf-b76307133" target="blank"><img src="images/icons/Social/linked-in-alt.svg" alt="abdul-rahman-khalaf-b76307133" height="35"  /></a>|<a href="https://www.facebook.com/groups/492703297525406/user/100004685259878/" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="35"  />
+|--|--|
+<!-- <a href="https://www.facebook.com/abdelrahman.khalaf.50" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="35" /></a> -->
 
 
 <!-- ![alexander-sands](https://komarev.com/ghpvc/?username=alexander-sands&label=Profile%20Views&color=0e75b6&style=flat "alexander-sands") -->
