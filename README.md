@@ -19,6 +19,11 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
   ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
+
+  ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
+
+
   |🔭 I’m currently working on **A JavaScript Tutorial Reference** (Allarm Tutorials)|📫 How to reach me **egybaron5@gmail.com**| 
   |:--|:--|
   | 👯 I’m looking to collaborate on **Open Source Projects** | 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/alexander-sands)| 
@@ -27,17 +32,6 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
   | 💬 Ask me about **JavaScript**
     
 <!-- - 📝 I regularly write articles on -->
-
-</div>
-
-<br>
-
-<!-- 0003 -------------------------------------------------- -->
-<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
-
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
-
-  ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
 
 </div>
 
