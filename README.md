@@ -18,33 +18,55 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
   
   ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+
+  |🔭 I’m currently working on **A JavaScript Tutorial Reference** (Allarm Tutorials)|📫 How to reach me **egybaron5@gmail.com**| 
+  |:--|:--|
+  | 👯 I’m looking to collaborate on **Open Source Projects** | 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/alexander-sands)| 
+  | 🤝 I’m looking for help with **teaching new technology**|📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/) & [Resume](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/)|
+  | 🌱 I’m currently learning **Node.js** | ⚡ Fun fact **I love Parkpur & Freerunning**\
+  | 💬 Ask me about **JavaScript**
+    
+<!-- - 📝 I regularly write articles on -->
+
+</div>
+
+<br>
+
+<!-- 0003 -------------------------------------------------- -->
+<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
+
   <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
 
   ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
 
 </div>
 
+---
 
-- 🔭 I’m currently working on **A JavaScript Tutorial Reference** (Allarm Tutorials)
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m looking for help with **teaching new technology**
-- 🌱 I’m currently learning **Node.js**
-- 💬 Ask me about **JavaScript**
-- 📫 How to reach me **egybaron5@gmail.com**
-- 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/alexander-sands) 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/) & [Resume](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/)
-- ⚡ Fun fact **I love Parkpur & Freerunning**
-<!-- - 📝 I regularly write articles on -->
+<!-- 0004 -------------------------------------------------- -->
+<!-- ### Languages and Tools -->
+## Skill Set :muscle:
 
+These are some of the major technologies that I use or have worked on in the past:
 
-<!-- 0003 -------------------------------------------------- -->
-<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
+||||||||
+|--|:--:|:--:|:--:|:--:|:--:|:--:|
+**Programming Languages**|<img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="35"/>|<img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="35"/>|<img src="images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" height="35"/>|<img src="images/icons/ProgrammingLanguages/php.svg" alt="php" height="35"/>|<img src="images/icons/ProgrammingLanguages/python.svg" alt="python" height="35"/>|<img src="images/icons/ProgrammingLanguages/java.svg" alt="java" height="35"/>|
+**Libraries and Frameworks**|<img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="35"/>|<img src="images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="35"/>|<img src="images/icons/FrontendDevelopment/sass.svg" alt="sass" height="35"/>|<img src="images/icons/FrontendDevelopment/pug.svg" alt="pug" height="35"/>|<img src="images/icons/FrontendDevelopment/reactjs.svg" alt="react" height="35"/>|<img src="images/icons/FrontendDevelopment/redux.svg" alt="redux" height="35"/>
+**Databases**|<img src="images/icons/Database/mysql.svg" alt="mysql" height="35"/>|<img src="images/icons/Database/mongodb.svg" alt="mongodb" height="35"/>
+**Design**|<img src="images/icons/Software/photoshop.svg" alt="photoshop" height="35"/>|<img src="images/icons/Software/illustrator.svg" alt="illustrator" height="35"/>|<img src="images/icons/Software/xd.svg" alt="xd" height="35"/>|<img src="images/icons/Software/figma.svg" alt="figma" height="35"/>
+**Task Runners**|<img src="images/icons/FrontendDevelopment/gulp.svg" alt="gulp" height="35"/>|<img src="images/icons/FrontendDevelopment/webpack.svg" alt="webpack" height="35"/>
+**Tools**|<img src="images/icons/Other/linux.svg" alt="linux" height="35"/>|<img title="VS Code" alt="VS Code" width="35px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img src="images/icons/Software/postman.svg" alt="postman" height="35"/>||
+||<img src="images/icons/StaticSiteGenerators/nextjs.svg" alt="express" height="35"/>|<img src="images/icons/Testing/jest.svg" alt="jest" height="35"/>|<img src="images/icons/FrontendDevelopment/babel.svg" alt="babel" height="35"/>|<img src="images/icons/BackendDevelopment/express.svg" alt="express" height="35"/>||
+||||||||
 
-  
-
-</div>
-
-
+<!-- <img src="images/icons/Other/json.png" alt="redux" height="35"/>JSON -->
+<!-- <img src="images/icons/Other/Command-Line.png" alt="mongodb" height="35"/> Command Line -->
+<!-- <img src="images/icons/Other/AJAX.svg" alt="redux" height="35"/>Ajax -->
+<!-- <img title="C" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> -->
+<!-- <img src="images/icons/Other/git.svg" alt="git"  height="35"/> -->
+<!-- <img src="images/icons/Other/github-2.svg" alt="git"  height="35"/> -->
+<!-- <img src="images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" height="35"/> -->
 
 <!-- 0005 -------------------------------------------------- -->
 ---
@@ -69,35 +91,6 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 <!--END_SECTION:waka-->
 
 <!-- ⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.55 % as on ⏰ 29-Jul-2023 -->
-
----
-
-<!-- 0004 -------------------------------------------------- -->
-<!-- ### Languages and Tools -->
-## Skill Set :muscle:
-
-These are some of the major technologies that I use or have worked on in the past:
-
-||||||||
-|--|--|--|--|--|--|--|
-**Programming Languages**|<img src="images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="35"/>|<img src="images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" height="35"/>|<img src="images/icons/BackendDevelopment/nodejs.svg" alt="nodejs" height="35"/>|<img src="images/icons/ProgrammingLanguages/php.svg" alt="php" height="35"/>|<img src="images/icons/ProgrammingLanguages/python.svg" alt="python" height="35"/>|<img src="images/icons/ProgrammingLanguages/java.svg" alt="java" height="35"/>|
-**Libraries and Frameworks**|<img src="images/icons/FrontendDevelopment/jquery.png" alt="bootstrap" height="35"/>|<img src="images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" height="35"/>|<img src="images/icons/FrontendDevelopment/sass.svg" alt="sass" height="35"/>|<img src="images/icons/FrontendDevelopment/pug.svg" alt="pug" height="35"/>|<img src="images/icons/FrontendDevelopment/reactjs.svg" alt="react" height="35"/>|<img src="images/icons/FrontendDevelopment/redux.svg" alt="redux" height="35"/>
-**Databases**|<img src="images/icons/Database/mysql.svg" alt="mysql" height="35"/>|<img src="images/icons/Database/mongodb.svg" alt="mongodb" height="35"/>
-**Design**|<img src="images/icons/Software/photoshop.svg" alt="photoshop" height="35"/>|<img src="images/icons/Software/illustrator.svg" alt="illustrator" height="35"/>|<img src="images/icons/Software/xd.svg" alt="xd" height="35"/>|<img src="images/icons/Software/figma.svg" alt="figma" height="35"/>
-**Task Runners**|<img src="images/icons/FrontendDevelopment/gulp.svg" alt="gulp" height="35"/>|<img src="images/icons/FrontendDevelopment/webpack.svg" alt="webpack" height="35"/>
-**Tools**|<img src="images/icons/Other/linux.svg" alt="linux" height="35"/>|<img title="VS Code" alt="VS Code" width="35px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img src="images/icons/Software/postman.svg" alt="postman" height="35"/>||
-||<img src="images/icons/StaticSiteGenerators/nextjs.svg" alt="express" height="35"/>|<img src="images/icons/Testing/jest.svg" alt="jest" height="35"/>|<img src="images/icons/FrontendDevelopment/babel.svg" alt="babel" height="35"/>|<img src="images/icons/BackendDevelopment/express.svg" alt="express" height="35"/>||
-||||||||
-
-<!-- <img src="images/icons/Other/json.png" alt="redux" height="35"/>JSON -->
-<!-- <img src="images/icons/Other/Command-Line.png" alt="mongodb" height="35"/> Command Line -->
-<!-- <img src="images/icons/Other/AJAX.svg" alt="redux" height="35"/>Ajax -->
-<!-- <img title="C" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> -->
-<!-- <img src="images/icons/Other/git.svg" alt="git"  height="35"/> -->
-<!-- <img src="images/icons/Other/github-2.svg" alt="git"  height="35"/> -->
-<!-- <img src="images/icons/MobileAppDevelopment/reactnative.svg" alt="reactnative" height="35"/> -->
-
-
 ---
 
 <!-- 0008 -------------------------------------------------- -->
@@ -105,6 +98,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <!-- <a href="https://github.com/Alexander-Sands/would-you-rather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=would-you-rather&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="would-you-rather" />
 </a> -->
+
 ## 🗂️ Highlight Projects
 
 
