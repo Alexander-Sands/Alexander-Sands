@@ -1,14 +1,7 @@
 <!-- 0000 -------------------------------------------------- -->
 <!-- ### 🏃🏻‍♂️🎓👨🏻‍💻👨🏼‍🎤👨🏽‍🎤⛸️🏹⛸️🏂🎯♟️🥁🏆🥇🎖️🏅🤺🤿🐦🦅🐙🕷️🐍🕸️🐢🦑🐊🐎🐳🐋🦈🐰 ⚡ ✨🎯⏱️🦅⚡💥🔥❄️ Full Stack Web Developer -->
 <!-- <div align="center"></div> -->
-<!-- ![alexander-sands](https://komarev.com/ghpvc/?username=alexander-sands&label=Profile%20Views&color=0e75b6&style=flat "alexander-sands") -->
-<!-- --- -->
-<!-- 0009 -------------------------------------------------- -->
-<!-- <div align="center"> 
-  <p><b>✨ VISITOR COUNT ✨</b></p>
-  <img src="https://profile-counter.glitch.me/Alexander-Sands/count.svg" />
-</div> -->
-
+<!-- ![Alexander-Sands](https://komarev.com/ghpvc/?username=Alexander-Sands&label=Profile%20Views&color=0e75b6&style=flat "Alexander-Sands") -->
 
 
 <!-- 0001 -------------------------------------------------- -->
@@ -28,14 +21,14 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
   ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10" alt="alexander-sands" /></a> -->
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexander-Sands&margin-w=15&margin-h=10" alt="Alexander-Sands" /></a> -->
 
-  ![](https://github-profile-trophy.vercel.app/?username=alexander-sands&margin-w=15&margin-h=10 "alexander-sands")
+  ![](https://github-profile-trophy.vercel.app/?username=Alexander-Sands&margin-w=15&margin-h=10 "Alexander-Sands")
 
 
   |🔭 I’m currently working on **A JavaScript Tutorial Reference** (Allarm Tutorials)|📫 How to reach me **egybaron5@gmail.com**| 
   |:--|:--|
-  | 👯 I’m looking to collaborate on **Open Source Projects** | 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/alexander-sands)| 
+  | 👯 I’m looking to collaborate on **Open Source Projects** | 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/Alexander-Sands)| 
   | 🤝 I’m looking for help with **teaching new technology**|📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/) & [Resume](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/)|
   | 🌱 I’m currently learning **Node.js** | ⚡ Fun fact **I love Parkpur & Freerunning**|
   | 💬 Ask me about **JavaScript**
@@ -50,15 +43,15 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
   
-  <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
+  <!-- ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Alexander-Sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) -->
 
-  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands&theme=dark)](https://git.io/streak-stats) -->
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=dark)](https://git.io/streak-stats) -->
 
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-sands&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Sands&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  |<img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> | ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands) |
+  |<img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> | ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Alexander-Sands) |
   |:--:|:--:|
-  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")|
+  |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands)](https://git.io/streak-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Alexander-Sands&show_icons=true&locale=en&layout=compact "Alexander-Sands")|
 </div>
 
 <!--START_SECTION:waka-->
@@ -130,7 +123,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!-- 0007 -------------------------------------------------- -->
 ## Portfolios
-Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" target="blank"><img align="center" src="images/icons/Social/github.svg" alt="alexander-sands" height="35"  /></a> | <a href="https://codepen.io/alexander-sands" target="blank"><img align="center" src="images/icons/Social/codepen.svg" alt="alexander-sands" height="35" /></a> 
+Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" target="blank"><img align="center" src="images/icons/Social/github.svg" alt="Alexander-Sands" height="35"  /></a> | <a href="https://codepen.io/Alexander-Sands" target="blank"><img align="center" src="images/icons/Social/codepen.svg" alt="Alexander-Sands" height="35" /></a> 
 |--|--|--| 
 
 <!-- 0008 -------------------------------------------------- -->
@@ -138,3 +131,10 @@ Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" targe
 <a href="https://linkedin.com/in/abdul-rahman-khalaf-b76307133" target="blank"><img src="images/icons/Social/linked-in-alt.svg" alt="abdul-rahman-khalaf-b76307133" height="35"  /></a>|<a href="https://www.facebook.com/alexander.sands.7/" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="35"  />
 |--|--|
 <!-- <a href="https://www.facebook.com/abdelrahman.khalaf.50" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="35" /></a> -->
+
+<!-- --- -->
+<!-- 0009 -------------------------------------------------- -->
+<!-- <div align="center"> 
+  <p><b>✨ VISITOR COUNT ✨</b></p>
+  <img src="https://profile-counter.glitch.me/Alexander-Sands/count.svg" />
+</div> -->
