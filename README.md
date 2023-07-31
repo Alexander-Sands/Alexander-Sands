@@ -56,7 +56,7 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-sands&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  |<img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> | ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true) |
+  |<img src="images/jetpacktocat.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> | ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=alexander-sands) |
   |:--:|:--:|
   |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander-sands)](https://git.io/streak-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexander-sands&show_icons=true&locale=en&layout=compact "alexander-sands")|
 </div>
