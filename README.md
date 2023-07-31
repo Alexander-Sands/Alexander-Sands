@@ -30,7 +30,7 @@ Hi, I'm a **🔥 Full Stack Web Developer 🔥** Who loves building digital prod
   |:--|:--|
   | 👯 I’m looking to collaborate on **Open Source Projects** | 👨‍💻 Most of my projects are available at [Github](https://github.com/Alexander-Sands) & [Codepen](https://codepen.io/alexander-sands)| 
   | 🤝 I’m looking for help with **teaching new technology**|📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/) & [Resume](https://www.linkedin.com/in/abdul-rahman-khalaf-b76307133/)|
-  | 🌱 I’m currently learning **Node.js** | ⚡ Fun fact **I love Parkpur & Freerunning**\
+  | 🌱 I’m currently learning **Node.js** | ⚡ Fun fact **I love Parkpur & Freerunning**|
   | 💬 Ask me about **JavaScript**
     
 <!-- - 📝 I regularly write articles on -->
@@ -131,3 +131,11 @@ Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" targe
 <a href="https://linkedin.com/in/abdul-rahman-khalaf-b76307133" target="blank"><img src="images/icons/Social/linked-in-alt.svg" alt="abdul-rahman-khalaf-b76307133" height="35"  /></a>|<a href="https://www.facebook.com/alexander.sands.7/" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="35"  />
 |--|--|
 <!-- <a href="https://www.facebook.com/abdelrahman.khalaf.50" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="35" /></a> -->
+
+---
+
+<!-- 0009 -------------------------------------------------- -->
+<div align="center"> 
+  <p><b>✨ VISITOR COUNT ✨</b></p>
+  <img src="https://profile-counter.glitch.me/Alexander-Sands/count.svg" />
+</div>
