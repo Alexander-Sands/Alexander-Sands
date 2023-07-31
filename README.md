@@ -128,6 +128,6 @@ Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" targe
 
 <!-- 0008 -------------------------------------------------- -->
 ## Let's Connect :handshake:
-<a href="https://linkedin.com/in/abdul-rahman-khalaf-b76307133" target="blank"><img src="images/icons/Social/linked-in-alt.svg" alt="abdul-rahman-khalaf-b76307133" height="35"  /></a>|<a href="https://www.facebook.com/groups/492703297525406/user/100004685259878/" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="35"  />
+<a href="https://linkedin.com/in/abdul-rahman-khalaf-b76307133" target="blank"><img src="images/icons/Social/linked-in-alt.svg" alt="abdul-rahman-khalaf-b76307133" height="35"  /></a>|<a href="https://www.facebook.com/alexander.sands.7/" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="35"  />
 |--|--|
 <!-- <a href="https://www.facebook.com/abdelrahman.khalaf.50" target="blank"><img align="center" src="images/icons/Social/facebook.svg" alt="Facebook" height="30" width="35" /></a> -->
