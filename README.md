@@ -3,7 +3,6 @@
 <!-- <div align="center"></div> -->
 <!-- ![Alexander-Sands](https://komarev.com/ghpvc/?username=Alexander-Sands&label=Profile%20Views&color=0e75b6&style=flat "Alexander-Sands") -->
 
-
 <!-- 0001 -------------------------------------------------- -->
 # Hi There 👋, I'm AbdelRahman Khalaf 
 <!-- <h1>Hi There, I'm AbdelRahman Khalaf <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
@@ -118,10 +117,8 @@ These are some of the major technologies that I use or have worked on in the pas
 </a>  
 
 <a href="https://github.com/Alexander-Sands/sass-mixins-and-functions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=sass-mixins-and-functions" alt="sass-mixins-and-function" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexander-sands&repo=sass-mixins-and-functions" alt="sass-mixins-and-function" />
 </a>  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=sass-mixins-and-functions)](https://github.com/Alexander-Sands/sass-mixins-and-functions)
 
 <!-- 0007 -------------------------------------------------- -->
 ## Portfolios
