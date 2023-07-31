@@ -121,6 +121,8 @@ These are some of the major technologies that I use or have worked on in the pas
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=sass-mixins-and-functions" alt="sass-mixins-and-function" />
 </a>  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexander-Sands&repo=sass-mixins-and-functions)](https://github.com/Alexander-Sands/sass-mixins-and-functions)
+
 <!-- 0007 -------------------------------------------------- -->
 ## Portfolios
 Portfolios | <a href="https://github.com/Alexander-Sands?tab=repositories" target="blank"><img align="center" src="images/icons/Social/github.svg" alt="Alexander-Sands" height="35"  /></a> | <a href="https://codepen.io/Alexander-Sands" target="blank"><img align="center" src="images/icons/Social/codepen.svg" alt="Alexander-Sands" height="35" /></a> 
