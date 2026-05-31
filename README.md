@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=SUMMARY&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,100:8b5cf6&text=SUMMARY&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 # Hi 👋 I'm AbdelRahman Khalaf
@@ -8,13 +8,14 @@
 
 Building modern web applications, interactive systems, and AI-assisted software solutions.
 
-<img src="img/jetpacktocat.png" alt="GitHub Octocat" height="250">
+<img src="img/jetpacktocat.png" alt="GitHub Octocat" height="200">
 
 - 🌍 Based in Egypt
 - 💻 Full Stack JavaScript Developer
 - 🚀 React • Node.js • Express • MongoDB
 - 🤖 Exploring AI-Assisted Development
 - 🎨 Interested in Creative Coding & Interactive Visual Systems
+
 
 ---
 
