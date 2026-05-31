@@ -173,16 +173,13 @@ Developed an interactive generative art system using HTML5 Canvas and JavaScript
 <!-- ## 📈 GitHub Stats -->
 ## 📈 GitHub Activity
 
-<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 10px;">
-
-  
-
-  <br/>
+<div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 5px;">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands)](https://git.io/streak-stats)
 
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+  <!-- ![Snake animation](https://raw.githubusercontent.com/Alexander-Sands/Alexander-Sands/output/github-contribution-grid-snake.svg) -->
 </div>
   
 ---
@@ -217,7 +214,7 @@ Developed an interactive generative art system using HTML5 Canvas and JavaScript
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+#### Thanks for visiting my profile. ❤️ 
 
 ![](https://komarev.com/ghpvc/?username=Alexander-Sands&style=for-the-badge)
 
