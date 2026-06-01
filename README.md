@@ -150,16 +150,6 @@ Physics-based collision system using vector mathematics and object-oriented Java
 
 🔗 https://codepen.io/alexander-sands/full/raMQgvP
 
-
-### Blue Serpent – Perlin Noise Animation
-
-Procedural animation using noise algorithms.
-
-**Tech:** JavaScript, Canvas, Perlin Noise
-
-🔗 https://codepen.io/alexander-sands/full/azBvWbV
-
-
 ### Neon Vortex Bloom
 
 Developed an interactive generative art system using HTML5 Canvas and JavaScript.
@@ -167,6 +157,14 @@ Developed an interactive generative art system using HTML5 Canvas and JavaScript
 **Tech:** JavaScript, Canvas
 
 🔗 https://codepen.io/alexander-sands/full/emBBdpe
+
+### Interactive Space Particles Explosion 
+
+Developed an interactive particle system using HTML5 Canvas and JavaScript.
+
+**Tech:** JavaScript, Canvas
+
+🔗 https://codepen.io/alexander-sands/full/YPGYdMB
 
 ---
 
