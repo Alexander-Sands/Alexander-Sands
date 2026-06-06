@@ -27,8 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
-<<<<<<< HEAD
           force_orphan: true
-=======
-          force_orphan: true
->>>>>>> 0128a41 (Update GitHub Actions workflow for snake animation)
