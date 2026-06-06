@@ -173,11 +173,35 @@ Developed an interactive particle system using HTML5 Canvas and JavaScript.
 
 <div align=center style="display: flex;flex-wrap: wrap;justify-content: center;gap: 5px;">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands)](https://git.io/streak-stats)
+  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands)](https://git.io/streak-stats) -->
+
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=github-dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=dracula) -->
+
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=dark"
+      media="(prefers-color-scheme: github-dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands"
+      alt="GitHub Streak"
+    />
+  </picture>
 
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
   <!-- ![Snake animation](https://raw.githubusercontent.com/Alexander-Sands/Alexander-Sands/output/github-contribution-grid-snake.svg) -->
+  <!-- ![Snake animation](https://raw.githubusercontent.com/Alexander-Sands/Alexander-Sands/output/github-contribution-grid-snake-dark.svg) -->
+
+  
 </div>
   
 ---
