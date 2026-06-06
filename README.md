@@ -191,8 +191,8 @@ Developed an interactive particle system using HTML5 Canvas and JavaScript.
 
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=dark"
-      media="(prefers-color-scheme: github-dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands&theme=github-dark"
+      media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Sands"
